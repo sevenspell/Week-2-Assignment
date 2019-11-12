@@ -1,9 +1,18 @@
+/* Navbar design */
+
 .btn-rita {
-    background-color: #4aaaa5;
+    background-color: #B44;
     color: #ffffff;
 }
 
-#navbarSupportedContent {
-    display:none;
+.btn-rita a:hover {
+    color: #FDB48C;
+}
+
+/*#navbarSupportedContent a{
     color: #4aaaa5;
 }
+*/
+
+
+
